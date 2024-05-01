@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 nihao 1.txt
+=======
+>>>>>>> 62cb7e29cd2eb13de2fa4a55d8e7009dfc0c2fe7
 1.txt master

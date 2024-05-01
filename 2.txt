@@ -1,1 +1,5 @@
 2.txt dev
+<<<<<<< HEAD
+=======
+2.txt master
+>>>>>>> 62cb7e29cd2eb13de2fa4a55d8e7009dfc0c2fe7
